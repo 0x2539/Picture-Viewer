@@ -1,3 +1,5 @@
+Picture-Viewer
+=================
 Picture Viewer needs an opengl capable video card.
 
 If you want to test the application, you can run Picture-Viewer.jar. Make sure that the "pictures" and "resources" folder is in the same place with the Picture-Viewer.jar. For the moment it only supports 6 pictures.
