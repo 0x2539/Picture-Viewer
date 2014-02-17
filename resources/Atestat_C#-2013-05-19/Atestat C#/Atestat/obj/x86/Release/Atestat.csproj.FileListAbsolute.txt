@@ -1,9 +1,0 @@
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\bin\Release\Atestat.exe
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\bin\Release\Atestat.pdb
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\Atestat.Form1.resources
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\Atestat.Properties.Resources.resources
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\GenerateResource.write.1.tlog
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\Atestat.exe
-C:\Users\Vali\documents\visual studio 2010\Projects\Atestat\Atestat\obj\x86\Release\Atestat.pdb
