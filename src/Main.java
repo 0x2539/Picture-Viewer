@@ -1018,15 +1018,15 @@ public class Main {
 		
 //		try 
 //		{	
-			lupa.texture = ImagingTools.glLoadTextureLinear("materiale/glass.png");
+			lupa.texture = ImagingTools.glLoadTextureLinear("pictures/glass.png");
 //			lupa.texture=TextureLoader.getTexture("PNG", 
 //			new FileInputStream(new File("materiale/glass.png")));
 
-			lupa.textureHover = ImagingTools.glLoadTextureLinear("materiale/glassHover.png");
+			lupa.textureHover = ImagingTools.glLoadTextureLinear("pictures/glassHover.png");
 //			lupa.textureHover=TextureLoader.getTexture("PNG", 
 //			new FileInputStream(new File("materiale/glassHover.png")));
 
-			lupa.textureDown = ImagingTools.glLoadTextureLinear("materiale/glassDown.png");
+			lupa.textureDown = ImagingTools.glLoadTextureLinear("pictures/glassDown.png");
 //			lupa.textureDown=TextureLoader.getTexture("PNG", 
 //			new FileInputStream(new File("materiale/glassDown.png")));
 
