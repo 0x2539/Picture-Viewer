@@ -1,0 +1,10 @@
+Picture Viewer needs an opengl capable video card.
+
+How to guide:
+-pres LEFT or RIGHT arrow key to move through pictures
+-click on the image
+-press 'L' to use the magnification glass
+-press the UP or DOWN arrow key to zoom in or zoom out in the magnification glass
+-press 'B' to turn the picture's colors into black-and-white
+-press 'C' to turn the picture's colors into color
+-press 'S' to turn the picture's colors into sepia
