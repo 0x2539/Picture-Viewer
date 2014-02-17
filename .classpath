@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jars/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jars/log4j-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Atestat Vali Final/lib/native-win"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slf4j-ext-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slf4j-simple-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slick-util.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slick.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
