@@ -1,5 +1,8 @@
 Picture Viewer needs an opengl capable video card.
 
+How to use in eclipse:
+Before you can use this project in eclipse you should go to 'Project'->'Properties'->'Java Build Path'->'Libraries'. Unfold "lwjgl.jar" and set the "Native library location" to "lib/native-win" from the repo.
+
 How to guide:
 -pres LEFT or RIGHT arrow key to move through pictures
 -click on the image
